@@ -4,6 +4,8 @@ import java.net.UnknownHostException;
 
 public class httpc 
 {
+
+	//just to check
 	public static void main(String[] args) throws UnknownHostException, URISyntaxException, IOException {
 		
 		if(args.length == 0) {
